@@ -13,6 +13,7 @@
 
  /* ----------------------------------------
  this is for Navigation Main banner style */
+
  .top-banner{
     width: 1920px;
     height: 1322px;
@@ -75,3 +76,18 @@
     transform:translate(-50%);
  }
  
+ /* ------------------------------
+ This is for features style */
+
+ .feat-image{
+    display: grid;
+    grid-template-columns: 342px 342px;
+    column-gap: 24px;
+    row-gap: 24px;
+ }
+
+ .ql{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+ }
