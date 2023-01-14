@@ -14,7 +14,7 @@
  /* ----------------------------------------
  this is for Navigation Main banner style */
  .top-banner{
-    /* width: 1920px; */
+    width: 1920px;
     height: 1322px;
     background: rgba(255, 144, 14, 0.1);
  }
@@ -52,6 +52,8 @@
     transform:translate(-50%);
     font-style: normal;
     font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 50px;
  }
 
  .em-btn{
@@ -64,6 +66,12 @@
     display: block;
     margin-left: 50%;
     transform:translate(-50%);
+    margin-bottom: 50px;
+ }
 
+ .brand-new img{
+    display: block;
+    margin-left: 50%;
+    transform:translate(-50%);
  }
  
