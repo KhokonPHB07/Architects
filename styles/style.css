@@ -1,0 +1,40 @@
+/*------------------------------
+ This is Google Font------------ */
+
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&family=Work+Sans:wght@700&display=swap');
+
+ /* -----------------------------
+ This is Common styles for all */
+
+ body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+ }
+
+ /* ----------------------------------------
+ this is for Navigation Main banner style */
+ .top-banner{
+    /* width: 1920px; */
+    height: 1322px;
+    background: rgba(255, 144, 14, 0.1);
+ }
+
+ .menu-bar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 573px;
+ }
+ .g-architects{
+    font-size: 45px;
+    color: #131313;
+ }
+
+
+ .nav-button{
+    list-style-type: none;
+    display: flex;
+    gap: 70px;
+ }
+
+ 
