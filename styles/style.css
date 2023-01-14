@@ -41,12 +41,17 @@
     font-size: 64px;
     margin-left: 50%;
     text-align: center;
-    transform:translate(-50%) ;
+    transform:translate(-50%);
  }
 
  .brand-new p{
     font-size: 16px;
     color: #727272;
+    margin-left: 50%;
+    text-align: center;
+    transform:translate(-50%);
+    font-style: normal;
+    font-size: 16px;
  }
 
  .em-btn{
@@ -56,5 +61,9 @@
     border-radius: 8px;
     font-size: 20px;
     color: #FFFFFF;
+    display: block;
+    margin-left: 50%;
+    transform:translate(-50%);
+
  }
  
