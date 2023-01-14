@@ -18,6 +18,7 @@
     width: 1920px;
     height: 1322px;
     background: rgba(255, 144, 14, 0.1);
+    margin-bottom: 85px;
  }
 
  .menu-bar{
@@ -68,6 +69,7 @@
     margin-left: 50%;
     transform:translate(-50%);
     margin-bottom: 50px;
+    border: 0px;
  }
 
  .brand-new img{
@@ -78,6 +80,13 @@
  
  /* ------------------------------
  This is for features style */
+ .features{
+    display: flex;
+    gap: 73px;
+    margin-left: 301px;
+    margin-right: 301px;
+    align-items: center;
+ }
 
  .feat-image{
     display: grid;
@@ -87,7 +96,47 @@
  }
 
  .ql{
-    font-style: normal;
+    font-style:normal;
     font-weight: 500;
     font-size: 45px;
+    color: #727272;
+ }
+
+ .of-our{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313;
+ }
+
+ .arc-feature{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #FF900E;
+
+ }
+
+ .feat-text h2{
+    margin-bottom: 24px;
+ }
+
+ .feat-text p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+ }
+ .em-btn-feat{
+    width: 180px;
+    height: 64px;
+    background: #FF900E;
+    border-radius: 8px;
+    font-size: 20px;
+    color: #FFFFFF;
+    border: 0px;
+    /* display: block;
+    margin-left: 50%;
+    transform:translate(-50%);
+    margin-bottom: 50px; */
  }
