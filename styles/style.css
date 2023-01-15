@@ -151,7 +151,7 @@
  }
 
  .lo-n-enj h2{
-  border-left: 106px solid #FF900E;
+  border-left: 5px solid #FF900E;
   font-size: 45px;
   color: #131313;
   padding-left: 21px;
@@ -163,7 +163,7 @@
    color: #727272;
 }
 
-.desk-n-mobile{
+.desk-n-mobile, .drag-n-builder, .awe-n-mod, .sup-n-ed{
    width: 586px;
    height: 171px;
    background: #FFFFFF;
@@ -171,12 +171,32 @@
    border-radius: 8px;
 }
 
-.desk-n-mobile h3{
+.desk-n-mobile h3, .drag-n-builder h3, .awe-n-mod h3, .sup-n-ed h3{
    font-size: 20px;
    color: #131313;
+   padding: 30px 250px 0px 30px;
+   margin-bottom: 0px;
 }
 
-.desk-n-mobile p{
+.desk-n-mobile p, .drag-n-builder p, .awe-n-mod p, .sup-n-ed p{
    font-size: 16px;
    color: #727272;
+   padding: 0px 42px 30px 30px;
+}
+
+.ten-y-btn{
+   width: 342px;
+   height: 200px;
+   background: #FF900E;
+   border-radius: 8px;
+}
+
+.ten-y-btn h1{
+   font-size: 65px;
+   color: #FFFFFF;
+}
+
+.ten-y-btn p{
+   font-size: 25px;
+   color: #FFFFFF;
 }
