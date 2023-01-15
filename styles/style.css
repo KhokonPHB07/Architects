@@ -228,10 +228,17 @@
    color: #727272;
    margin-left: 240px;
    padding-right: 1100px;
+   margin-bottom: 100px;
  }
 
  /*.................................
  this is for award winning styles  */
+
+ .award{
+   display: flex;
+   gap: 124.17px;
+   margin-left: 290px;
+ }
 
  .aw-win{
    width: 241.83px;
@@ -247,16 +254,51 @@
    margin: 45.92px 98.699px 10px 97.92px;
  }
 
- .aw-win h2{
+ .five-four{
    font-size: 45px;
    color: #424242;
    margin: 10px 93.92px 5px 92.92px;
 
  }
 
- .aw-win p{
+ .aw{
    font-size: 20px;
    color: #727272;
    margin: 5px 30px 59.69px 35.92px;
 
  }
+
+
+ .one{
+   font-size: 45px;
+   color: #424242;
+   margin: 9.78px 69px 5px 69px;
+ }
+
+ .pf{
+   font-size: 20px;
+   color: #727272;
+   margin: 5px 40.92px 59.92px 39.92px;
+  
+ }
+
+ .five{
+   font-size: 45px;
+   color: #424242;
+   margin: 9.78px 83.92px 5px 74.92px;
+ }
+
+ .cw{
+   font-size: 20px;
+   color: #727272;
+   margin: 5px 40.92px 59.92px 49.92px;
+  
+ }
+
+ .two{
+   font-size: 45px;
+   color: #424242;
+   margin: 10px 53.92px 5px 54.92px;
+ }
+ 
+ 
