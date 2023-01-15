@@ -148,7 +148,7 @@
    display: flex;
    justify-content: center;
    gap: 146px;
-   margin-left: 240px;
+   /* margin-left: 240px; */
  }
 
  .lo-n-enj{
@@ -198,6 +198,7 @@
    border-radius: 8px;
    border: 0px;
    position: absolute;
+   margin-left: 45%;
 }
 
 .ten-y-btn h1{
@@ -211,3 +212,51 @@
    color: #FFFFFF;
    margin: 0px;
 }
+
+/*------------------------------- 
+ This is for Some facts style*/
+
+ .facts h2{
+   font-size: 45px;
+   color: #131313;
+   margin-left: 240px;
+   margin-top: 268px;
+ }
+
+ .facts p{
+   font-size: 16px;
+   color: #727272;
+   margin-left: 240px;
+   padding-right: 1100px;
+ }
+
+ /*.................................
+ this is for award winning styles  */
+
+ .aw-win{
+   width: 241.83px;
+   height: 241.83px;
+   border: 1px solid #FF900E;
+   border-radius: 8px;
+
+ }
+
+ .aw-win img{
+   width: 45.22px;
+   height: 45.22px;
+   margin: 45.92px 98.699px 10px 97.92px;
+ }
+
+ .aw-win h2{
+   font-size: 45px;
+   color: #424242;
+   margin: 10px 93.92px 5px 92.92px;
+
+ }
+
+ .aw-win p{
+   font-size: 20px;
+   color: #727272;
+   margin: 5px 30px 59.69px 35.92px;
+
+ }
