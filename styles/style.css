@@ -245,7 +245,13 @@
    height: 241.83px;
    border: 1px solid #FF900E;
    border-radius: 8px;
+   transition-duration: 100ms;
+   transition-property: all;
 
+ }
+
+ .aw-win:hover{
+   transform: rotate(45deg);
  }
 
  .aw-win img{
