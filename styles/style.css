@@ -308,3 +308,28 @@
   
  }
  
+ /* -------------------------------------
+ This is for sponsor styles */
+ .os h1{
+   font-size: 45px;
+   color: #131313;
+   text-align: center;
+   margin-top: 180px;
+   margin-bottom: 0px;
+ }
+ .os p{
+   font-size: 16px;
+   color: #727272;
+   text-align: center;
+   padding-left: 670px;
+   padding-right: 670px;
+   margin-bottom: 50px;
+ }
+
+ .spon-logo{
+   display: flex;
+   gap: 155px;
+   margin-left: 240px;
+   margin-right: 240px;
+
+ }
